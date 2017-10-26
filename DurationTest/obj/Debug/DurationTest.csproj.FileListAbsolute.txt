@@ -1,0 +1,5 @@
+C:\Users\robertss5\RiderProjects\DurationTest\DurationTest\bin\Debug\DurationTest.exe
+C:\Users\robertss5\RiderProjects\DurationTest\DurationTest\bin\Debug\DurationTest.pdb
+C:\Users\robertss5\RiderProjects\DurationTest\DurationTest\obj\Debug\DurationTest.csprojResolveAssemblyReference.cache
+C:\Users\robertss5\RiderProjects\DurationTest\DurationTest\obj\Debug\DurationTest.exe
+C:\Users\robertss5\RiderProjects\DurationTest\DurationTest\obj\Debug\DurationTest.pdb
